@@ -5,6 +5,8 @@ SIGNL4 offers powerful duty scheduling and time-based overrides for routing aler
 
 With time-based overrides you can specify dedicated alerting profiles for business hours, weekends, holidays, etc. You can add and edit holidays manually or you can import them from iCal files. For the latter we provide a sample script here.
 
+![signl4-holidays](signl4-holidays.png)
+
 ## Usage and Sample Code
 
 Attention: This code is intended as a sample and only lightly tested with no guarantee. Please use with care.
