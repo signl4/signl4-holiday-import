@@ -3,8 +3,9 @@
 
 SIGNL4 bietet eine komfortable Dienst- und Bereitschafts-Planung sowie zeitbasierte Benachrichtigungs-Einstellungen, um Alarme zur richtigen Zeit an die verantwortlichen Personen weiterzuleiten.
 
-
 Mit zeitbasierten Überschreibungen kannst Du spezielle Benachrichtigungs-Profile für Geschäftszeiten, Wochenenden, Feiertage usw. festlegen. Du kannst Feiertage manuell hinzufügen und bearbeiten oder diese aus iCal-Dateien importieren. Für letzteres stellen wir hier ein Beispiel-Skript zur Verfügung.
+
+![signl4-holidays](signl4-holidays.png)
 
 ## Verwendung und Beispiel-Code
 
